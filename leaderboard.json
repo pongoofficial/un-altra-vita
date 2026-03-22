@@ -1,5 +1,15 @@
 [
   {
+    "nickname": "thomas",
+    "score": 9,
+    "day": 1,
+    "level": 17,
+    "money": 0,
+    "followers": 0,
+    "missions": 18,
+    "date": "2026-03-22"
+  },
+  {
     "nickname": "David",
     "score": 8,
     "day": 1,
