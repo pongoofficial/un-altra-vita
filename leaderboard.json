@@ -1,5 +1,15 @@
 [
   {
+    "nickname": "Marco",
+    "score": 17,
+    "day": 1,
+    "level": 29,
+    "money": 0,
+    "followers": 0,
+    "missions": 36,
+    "date": "2026-03-22"
+  },
+  {
     "nickname": "thomas",
     "score": 9,
     "day": 1,
@@ -11,16 +21,6 @@
   },
   {
     "nickname": "David",
-    "score": 8,
-    "day": 1,
-    "level": 23,
-    "money": 0,
-    "followers": 0,
-    "missions": 0,
-    "date": "2026-03-22"
-  },
-  {
-    "nickname": "Marco",
     "score": 8,
     "day": 1,
     "level": 23,
