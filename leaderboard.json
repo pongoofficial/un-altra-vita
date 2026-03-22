@@ -20,6 +20,16 @@
     "date": "2026-03-22"
   },
   {
+    "nickname": "Elia",
+    "score": 11,
+    "day": 1,
+    "level": 23,
+    "money": 0,
+    "followers": 0,
+    "missions": 21,
+    "date": "2026-03-22"
+  },
+  {
     "nickname": "thomas",
     "score": 9,
     "day": 1,
@@ -51,16 +61,6 @@
   },
   {
     "nickname": "giulio",
-    "score": 5,
-    "day": 1,
-    "level": 15,
-    "money": 0,
-    "followers": 0,
-    "missions": 0,
-    "date": "2026-03-22"
-  },
-  {
-    "nickname": "Elia",
     "score": 5,
     "day": 1,
     "level": 15,
