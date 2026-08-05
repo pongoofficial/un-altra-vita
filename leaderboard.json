@@ -1,5 +1,16 @@
 [
   {
+    "nickname": "John cen",
+    "score": 431,
+    "day": 8,
+    "level": 143,
+    "money": 1092250,
+    "followers": 89,
+    "missions": 166,
+    "date": "2026-08-05",
+    "deviceId": "dev_msd72xkq_a7e4xvn3"
+  },
+  {
     "nickname": "GIACO (2)",
     "score": 364,
     "day": 2,
@@ -20,17 +31,6 @@
     "missions": 139,
     "date": "2026-08-05",
     "deviceId": "dev_msc5se9w_4kkreh0k"
-  },
-  {
-    "nickname": "John cena",
-    "score": 136,
-    "day": 11,
-    "level": 120,
-    "money": 3149,
-    "followers": 182,
-    "missions": 117,
-    "date": "2026-08-04",
-    "deviceId": "dev_msd72xkq_a7e4xvn3"
   },
   {
     "nickname": "GIACO",
